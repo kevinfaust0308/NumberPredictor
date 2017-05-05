@@ -1,6 +1,8 @@
 # Number Predictor
 A web application with an easy-to-use UI to predict the number within an image.
+
 Uses a CNN trained on a subset of the famous MNIST handwritten dataset.
+
 Motivation: to see how to make the web front-end communicate with a trained CNN (or any ML model) to deliver predictions to the user
 
 ## Getting Started
